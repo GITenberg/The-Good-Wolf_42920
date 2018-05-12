@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42920#The-Good-Wolf
 gutenberg_issued: '2013-06-12'
 gutenberg_type: Text
 identifiers:
